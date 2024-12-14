@@ -26,6 +26,7 @@ mixamo_bone_names = {
     "Thumb1.L": "mixamorig:LeftHandThumb1",
     "Thumb2.L": "mixamorig:LeftHandThumb2",
     "Thumb3.L": "mixamorig:LeftHandThumb3",
+    "Thumb4.L": "mixamorig:LeftHandThumb4",
     "Index1.L": "mixamorig:LeftHandIndex1",
     "Index2.L": "mixamorig:LeftHandIndex2",
     "Index3.L": "mixamorig:LeftHandIndex3",
