@@ -66,6 +66,8 @@ mixamo_bone_names = {
     
     "Toe.L": "mixamorig:RightToeBase",
     "Toe.R": "mixamorig:LeftToeBase",
+    "ToeEnd.R": "mixamorig:RightToe_End",
+    "ToeEnd.L": "mixamorig:LeftToe_End",
     # Add more bone mappings if necessary
 }
 
